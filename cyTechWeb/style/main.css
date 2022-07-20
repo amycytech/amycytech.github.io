@@ -981,7 +981,8 @@ iframe {
             animation-duration: 2s;
     -webkit-animation-iteration-count: 1;
             animation-iteration-count: 1;
-    top: -8px !important; }
+    top: -8px !important;
+    mix-blend-mode: color-dodge; }
   .banner .sec_tit_light {
     opacity: 0;
     -webkit-animation-name: tit_light;
