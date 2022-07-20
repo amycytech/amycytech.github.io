@@ -238,7 +238,7 @@ iframe {
   font-size: 18px !important; }
 
 .tit {
-  font-family: "PingFang TC Semibold", "微軟雅黑", "Microsoft YaHei";
+  font-family: "PingFang TC Semibold", "微軟雅黑", "Microsoft YaHei , Arial, Helvetica, sans-serif;";
   letter-spacing: 2px; }
   @media (max-width: 480px) {
     .tit {
