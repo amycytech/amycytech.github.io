@@ -2190,6 +2190,9 @@ iframe {
   @media (max-width: 991px) {
     .unitSwiper {
       padding-bottom: 8vw; } }
+  @media (max-width: 480px) {
+    .unitSwiper {
+      padding-bottom: 12vw; } }
 
 .swiper-unitSwiper {
   position: absolute;
