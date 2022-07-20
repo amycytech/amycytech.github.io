@@ -1875,7 +1875,7 @@ iframe {
     font-size: clamp(34px, 3.75vw, 72px);
     letter-spacing: -2px;
     line-height: 1.5; }
-    @media (max-width: 480px) {
+    @media (max-width: 991px) {
       .num_list .num {
         letter-spacing: 0; } }
   .num_list .unit {
