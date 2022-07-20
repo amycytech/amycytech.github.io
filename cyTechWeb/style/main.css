@@ -498,7 +498,8 @@ iframe {
   vertical-align: middle; }
 
 .copyright {
-  background-color: #222a5a; }
+  background-color: #222a5a;
+  padding: 6px 20px; }
   .copyright p {
     text-align: center;
     margin: 0;
@@ -1975,7 +1976,7 @@ iframe {
         transition: transform 0.3s, -webkit-transform 0.3s; }
         @media (max-width: 480px) {
           .card_list .item .con .text {
-            height: 80px; } }
+            height: 90px; } }
         .card_list .item .con .text span {
           display: block;
           -webkit-transform: translateY(100px);
